@@ -3,7 +3,7 @@ instances: 1
 memory: 512M
 command: npm start
 services:
-  - Discovery-Demo
+  - Test_Discovery
 env:
   DEMO_DEPLOY: 1
 
