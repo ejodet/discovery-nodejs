@@ -1,7 +1,7 @@
 name: discovery-news-demo-crawl-date
 instances: 1
 memory: 512M
-command: npm build
+command: react-scripts build
 services:
   - Test_Discovery
 env:
